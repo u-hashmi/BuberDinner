@@ -45,3 +45,6 @@ D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.Configu
 D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
