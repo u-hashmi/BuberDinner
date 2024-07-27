@@ -34,3 +34,14 @@ D:\Dev\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\refint\BuberDinner.Api.dll
 D:\Dev\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\BuberDinner.Api.pdb
 D:\Dev\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\BuberDinner.Api.genruntimeconfig.cache
 D:\Dev\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\ref\BuberDinner.Api.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Dev\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
